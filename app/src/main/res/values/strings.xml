@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Music App</string>
+    <string name="songs">Songs</string>
+    <string name="playlist">Playlist</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="payment">Payment</string>
+    <string name="songsActivityDescription">This activity contains list of songs</string>
+    <string name="songName1">song 1</string>
+    <string name="songName2">song 2</string>
+    <string name="albumActivityDescription">This activity contains list of albums.</string>
+    <string name="albumName1">Album 1</string>
+    <string name="albumName2">Album 2</string>
+    <string name="artistActivityDescription">This activity contains list of artists.</string>
+    <string name="artistName1">Artist 1</string>
+    <string name="artistName2">Artist 2</string>
+    <string name="playlistActivityDescription">This activity contains list of playlists.</string>
+    <string name="playlistName1">Playlist 1</string>
+    <string name="playlistName2">Playlist 2</string>
+    <string name="IntoductionMainPage">Welcome to My Music App</string>
+    <string name="PaymentDetails">The payment method in Payment activity I chose is Android Pay. All the payments will proceed through Android Pay.</string>
+</resources>
